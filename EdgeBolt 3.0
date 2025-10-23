@@ -3,7 +3,7 @@
 // @version       1.5
 // @description   EdgyPro but free :)
 // @namespace     https://tampermonkey.net
-// @author        TTT - (TallTacoTristan)
+// @author        EB - (EdgeBolt)
 // @exclude /^.*\/Student(\/.*|\?.*)?$/
 // @include  *://*humanizeaitext.org*/*
 // @include  *://*edgenuity.com*/*
